@@ -1,0 +1,14 @@
+G:\2025\JAVA Uni\POOBiblioteca\Bilbioteca\bin\Debug\net9.0\Bilbioteca.exe
+G:\2025\JAVA Uni\POOBiblioteca\Bilbioteca\bin\Debug\net9.0\Bilbioteca.deps.json
+G:\2025\JAVA Uni\POOBiblioteca\Bilbioteca\bin\Debug\net9.0\Bilbioteca.runtimeconfig.json
+G:\2025\JAVA Uni\POOBiblioteca\Bilbioteca\bin\Debug\net9.0\Bilbioteca.dll
+G:\2025\JAVA Uni\POOBiblioteca\Bilbioteca\bin\Debug\net9.0\Bilbioteca.pdb
+G:\2025\JAVA Uni\POOBiblioteca\Bilbioteca\obj\Debug\net9.0\Bilbioteca.GeneratedMSBuildEditorConfig.editorconfig
+G:\2025\JAVA Uni\POOBiblioteca\Bilbioteca\obj\Debug\net9.0\Bilbioteca.AssemblyInfoInputs.cache
+G:\2025\JAVA Uni\POOBiblioteca\Bilbioteca\obj\Debug\net9.0\Bilbioteca.AssemblyInfo.cs
+G:\2025\JAVA Uni\POOBiblioteca\Bilbioteca\obj\Debug\net9.0\Bilbioteca.csproj.CoreCompileInputs.cache
+G:\2025\JAVA Uni\POOBiblioteca\Bilbioteca\obj\Debug\net9.0\Bilbioteca.dll
+G:\2025\JAVA Uni\POOBiblioteca\Bilbioteca\obj\Debug\net9.0\refint\Bilbioteca.dll
+G:\2025\JAVA Uni\POOBiblioteca\Bilbioteca\obj\Debug\net9.0\Bilbioteca.pdb
+G:\2025\JAVA Uni\POOBiblioteca\Bilbioteca\obj\Debug\net9.0\Bilbioteca.genruntimeconfig.cache
+G:\2025\JAVA Uni\POOBiblioteca\Bilbioteca\obj\Debug\net9.0\ref\Bilbioteca.dll
